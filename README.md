@@ -108,10 +108,10 @@ A **data-driven project** analyzing user privacy and security concerns regarding
 ## 🌐 Let's Connect
 I'm always open to new ideas, collaborations, and learning opportunities! Feel free to connect with me:
 
-- 🖥️ [Codesphere Website](https://codesphere.io)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🖥️ [Codesphere Website](https://codesphere.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/tonnie-junior-9294802b6)  
 - 🐦 [Twitter](https://twitter.com/your-handle)  
-- 📧 **Email**: tonnie@example.com  
+- 📧 **Email**: tonniejunior08@gmil.com.com  
 
 ---
 
@@ -139,4 +139,3 @@ When I'm not coding, I enjoy exploring new technologies, reading tech blogs, and
 
 ---
 
-Feel free to let me know if you'd like any further edits or additions. Enjoy showcasing your awesome work!
